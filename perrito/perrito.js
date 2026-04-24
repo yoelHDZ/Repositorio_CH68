@@ -1,0 +1,1 @@
+prompt("Nombre del perro:");
