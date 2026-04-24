@@ -1,2 +1,5 @@
 let nombreP = prompt("Nombre del perrito:");
-console.log(nombre+" tiene un nombre Genial!!! ") // undefined
+let edadP = prompt("Que edad tiene el perrito:");
+
+console.log(nombreP+" tiene un nombre Genial!!! ")
+
